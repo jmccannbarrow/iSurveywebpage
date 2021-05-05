@@ -1,25 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to iSurvey Webpage
 
 You can use the [editor on GitHub](https://github.com/jmccannbarrow/iSurveywebpage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is the webpage of my final project for the HDip in Computer Science - iSurvey - a mobile application designed to aid public consultations in Kerry County Council with dynamic and flexible results.
 
-### Markdown
+# Project Headings
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+ - Github Repositories
+ - Final Report
+ - Video
 
 - Bulleted
 - List
 
-1. Numbered
-2. List
+
 
 **Bold** and _Italic_ and `Code` text
 
