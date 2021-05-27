@@ -17,10 +17,8 @@ This is the webpage of my final project for the HDip in Computer Science - iSurv
  
  [Video](https://www.youtube.com/watch?v=ZQMRzozTHyU&feature=youtu.be)
  
- [Presentation](https://www.youtube.com/watch?v=ZQMRzozTHyU&feature=youtu.be)
+ [Presentation](https://github.com/jmccannbarrow/iSurveywebpage/blob/gh-pages/iSurvey.pptx)
 
-
-[editor on GitHub](https://www.kerrycoco.ie)
 
 
 **Bold** and _Italic_ and `Code` text
