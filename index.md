@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/jmccannbarrow/iSurveywebpage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-![Image](https://github.com/jmccannbarrow/iSurveywebpage/blob/gh-pages/Capturenew2.JPG)
+![Image](https://github.com/jmccannbarrow/iSurveywebpage/blob/gh-pages/Capturenewa.JPG)
 
 This is the webpage of my final project for the HDip in Computer Science - iSurvey - a mobile application designed to aid public consultations in Kerry County Council with dynamic and flexible results.
 
