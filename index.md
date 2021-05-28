@@ -12,7 +12,7 @@ This is the webpage of my final project for the HDip in Computer Science - iSurv
  - [Api Repo](https://github.com/jmccannbarrow/isurveyapi)
  - [Mobile Repo](https://github.com/jmccannbarrow/isurveymobileapplication)
 
- **Github Repositories**
+ **Other Links**
   - [Final Report](https://github.com/jmccannbarrow/iSurveywebpage/blob/gh-pages/finalreport.pdf)
   - [Video](https://www.youtube.com/watch?v=ZQMRzozTHyU&feature=youtu.be)
   - [Presentation](https://github.com/jmccannbarrow/iSurveywebpage/blob/gh-pages/iSurvey.pptx)
