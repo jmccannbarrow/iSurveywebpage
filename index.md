@@ -1,7 +1,7 @@
 ## Welcome to iSurvey Webpage
 
 
- ![Image](https://github.com/jmccannbarrow/iSurveywebpage/blob/gh-pages/Capturenewa.jpg)
+ ![Image](https://raw.githubusercontent.com/jmccannbarrow/iSurveywebpage/gh-pages/Capturenewa.jpg)
 
 This is the webpage of my final project for the HDip in Computer Science - iSurvey - a mobile application designed to aid public consultations in Kerry County Council with dynamic and flexible results.
 
